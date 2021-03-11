@@ -11,7 +11,7 @@ import * as cocoSSD from '@tensorflow-models/coco-ssd';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnInit {
-  title = 'TF-ObjectDetection';
+  title = 'TFJS-ObjectDetection';
   private video: HTMLVideoElement;
   public innerWidth: any;
   public innerHeight: any;
